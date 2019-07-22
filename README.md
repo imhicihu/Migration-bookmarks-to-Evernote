@@ -4,8 +4,8 @@
 
 # RATIONALE #
 
-* An internal & must-do-mandatory-project since a lots of links collected and curated across times and devices generated a mountain of links with a plethora of tags. Since [Del.icio.us](https://del.icio.us/) was [sold twice!](https://dealbook.nytimes.com/2014/05/08/delicious-social-site-is-sold-by-youtube-founders/?mtrref=www.google.com&gwh=66EB03E0A8E0CDB06A837C01ABFF41CE&gwt=pay), we do not had another choice /B plan. This is the result of different tools applied with some looses and some discoveries in the digital road.
-* This repo is a living document that will grow and adapt over time
+* An internal & must-do-mandatory-project since a lots of links collected and curated across times and devices generated a mountain of links with a plethora of tags. Since [Del.icio.us](https://del.icio.us/) was [sold twice!](https://dealbook.nytimes.com/2014/05/08/delicious-social-site-is-sold-by-youtube-founders/?mtrref=www.google.com&gwh=66EB03E0A8E0CDB06A837C01ABFF41CE&gwt=pay), we do not had another choice /B plan. This is the result of different tools applied with some collateral damages and some discoveries on the digital road.
+* ~~This repo is a living document that will grow and adapt over time~~
 
 ### What is this repository for? ###
 
@@ -40,16 +40,16 @@
 * Go to section `Paste html here here`. Paste the code.
 * Click on `Parse to Evernote XML`. Inside this box, again select all the code parsed (ie.: Google Chrome > `Edit` > `Select all`).
 * Open TextEdit (mac) / WordPad (Windows). Create a brand new file. Paste the parsed data. Save as `exported.enex`
-* Go to Evernote and [download](https://evernote.com/download) the app according your operating system. Install it. Log in with your account. 
-* Once opened go to `File` > `Import notes`. Select the previously exported and saved `exported.enex`
+* Go to Evernote and [download](https://evernote.com/download) the app according to your operating system. Install it. Log in with your account. 
+* Once opened go to `File` > `Import notes`. Select the previously exported file named & saved `exported.enex`
 
 ### Source ###
 
-* Check them on [here](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/src)
+* ~~Check them on [here](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/src)~~
 
 ### Issues ###
 
-* Check them on [here](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/issues)
+* ~~Check them on [here](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/issues)~~
 
 ### Changelog ###
 
