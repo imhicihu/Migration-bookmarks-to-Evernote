@@ -43,6 +43,9 @@
 * Go to Evernote and [download](https://evernote.com/download) the app according to your operating system. Install it. Log in with your account. 
 * Once opened go to `File` > `Import notes`. Select the previously exported file named & saved `exported.enex`
 
+#### Evernote exporting ####
+* Evernote recently made [controversial changes](https://techcrunch.com/2016/12/14/evernotes-new-privacy-policy-allows-employees-to-read-your-notes/) to their privacy policy that allows employees to read user notes. So we need a _B-plan_: Download [Standard Notes](https://standardnotes.org/) according your ~~operating system~~ device. Then follow this [guidelines](https://dashboard.standardnotes.org/tools)
+
 ### Source ###
 
 * ~~Check them on [here](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/src)~~
