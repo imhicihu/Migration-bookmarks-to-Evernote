@@ -37,7 +37,7 @@
 	- In Chrome (PC) press `CTRL` + `U`. Or you can click on the weird-looking key with three horizontal lines in the upper right hand corner. Then click on `Tools` and select `View Source`.
 * Select all the code. (ie.: Google Chrome > `Edit` > `Select all`)
 * Go to http://jsfiddle.net/kT4nj/ 
-* Go to section `Paste html here here`. Paste the code.
+* Go to section `Paste html here`. Paste the code.
 * Click on `Parse to Evernote XML`. Inside this box, again select all the code parsed (ie.: Google Chrome > `Edit` > `Select all`).
 * Open TextEdit (mac) / WordPad (Windows). Create a brand new file. Paste the parsed data. Save as `exported.enex`
 * Go to Evernote and [download](https://evernote.com/download) the app according to your operating system. Install it. Log in with your account. 
