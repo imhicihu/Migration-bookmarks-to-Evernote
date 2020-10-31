@@ -1,15 +1,9 @@
-## Technical requeriments ##
+## Technical requirements ##
 
 * Hardware
-     - any computer with an internet connection
-     - 
-     - 
-     - 
+     - any computer with a _stable_ internet connection
 * Software
      - [Atom](https://atom.io/)
-     - 
-     - 
-     - 
 * Online tools
      - a "legit" [Evernote](https://evernote.com/) account
      - an internet connection
