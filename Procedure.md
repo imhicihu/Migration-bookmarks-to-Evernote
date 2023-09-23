@@ -1,4 +1,4 @@
-## The easy way to export data
+### The easy way to export data
 * Log in to your [Del.icio.us](https://del.icio.us/) account (_fingers crossed!_)
 * Then go to `Profile` (upper right corner) > `Settings` > `Export` tab. Tick `Include My Tags` and `Include My Notes`. `Export` your bookmarks as `html` format
 ![exporting.png](https://bitbucket.org/repo/4pyror9/images/2603006681-delicious.png)
@@ -12,7 +12,7 @@
 		- to a myriad of format via [Pandoc](https://pandoc.org/)
 * Convert your `export.html` to an Evernote XML file. More data can be found [here](https://evernote.com/blog/how-evernotes-xml-export-format-works/) and [there](https://help.evernote.com/hc/en-us/articles/208314308-How-to-import-from-other-note-apps-into-Evernote)
 
-## Another way to export and import data
+### Another way to export and import data
 * Log in to your [Del.icio.us](https://del.icio.us/) account (_fingers crossed!_)
 * Then go to `Profile` (upper right corner) > `Settings` > `Export` tab. Tick `Include My Tags` and `Include My Notes`. `Export` your bookmarks as `html` format. Save it.
 * Open the `export.html` in your internet browser, ie.: Google Chrome
