@@ -11,6 +11,6 @@
      - [Smash](https://www.fromsmash.com/): unlimited ditigal moving/transfer of digital assets
      - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
      
-## Legal
+### Legal
 
 * All trademarks are the property of their respective owners.
