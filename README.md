@@ -1,24 +1,24 @@
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![status-archived](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
-![issues-closed](https://bitbucket.org/repo/ekyaeEE/images/1555006384-issues_closed.png)
+![status-archived](images/3278295154-status_archived.png)
+![stability-wip](images/3847436881-internal_use_stable.png)
+![issues-closed](images/1555006384-issues_closed.png)
 
 # RATIONALE #
 
-* An internal & must-do-mandatory-project since a lots of links collected and curated across times and devices generated a mountain of links with a plethora of tags. Since [Del.icio.us](https://del.icio.us/) was [sold twice!](https://dealbook.nytimes.com/2014/05/08/delicious-social-site-is-sold-by-youtube-founders/?mtrref=www.google.com&gwh=66EB03E0A8E0CDB06A837C01ABFF41CE&gwt=pay), we do not had another choice /B plan. This is the result of different tools applied with some collateral damages and some discoveries on the digital road.
-* ~~This repo is a living document that will grow and adapt over time~~
+* An internal & must-do-mandatory-project since a lots of links collected and curated across times and devices generated a mountain of links with a plethora of tags. Since [Del.icio.us](https://del.icio.us/) was [sold twice!](https://dealbook.nytimes.com/2014/05/08/delicious-social-site-is-sold-by-youtube-founders/?mtrref=www.google.com&gwh=66EB03E0A8E0CDB06A837C01ABFF41CE&gwt=pay), we do not had another choice B plan. This is the result of different tools applied with some collateral damages and some discoveries on the digital road.
+
 
 ### What is this repository for? ###
 
 * Quick summary
     - Migration of bookmarks (and internal tags) to [Evernote](https://www.evernote.com/) (mainly from the _almost defunct_ [Del.icio.us](https://del.icio.us/)
-* Version 1.01
+
 
 ### How do I get set up? ###
 
 #### The easy way to export data ####
 * Log in to your [Del.icio.us](https://del.icio.us/) account (_fingers crossed!_)
 * Then go to `Profile` (upper right corner) > `Settings` > `Export` tab. Tick `Include My Tags` and `Include My Notes`. `Export` your bookmarks as `html` format
-![exporting.png](https://bitbucket.org/repo/4pyror9/images/2603006681-delicious.png)
+![exporting.png](images/2603006681-delicious.png)
 * The `export.html` can be clean out with:
 	- clean up:
 		- [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/)
@@ -54,20 +54,14 @@
 
 * ~~Check them on [here](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/issues)~~
 
-### Changelog ###
-
-* Please check the [Commits](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/commits/) section for the current status
-
 ### Who do I talk to? ###
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
@@ -75,4 +69,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
